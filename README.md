@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a fresher looking for an opportunity in the field of Java, SQL, Reactjs.<br>I have knowledge of Java, reactjs, MySQl, JDBC, Hibernate. I have also exposore in HTmL,CSS,and javaScript.
+Dedicated Computer Science graduate with proven expertise in Java, React.js, Spring framework, and MySQL. Demonstrated ability to develop full-stack web applications and lead technical teams. Passionate about writing clean, scalable code and solving complex problems. Seeking Java Developer position to leverage strong programming fundamentals and framework knowledge.
 
 
 ## 🌐 Socials:
